@@ -36,7 +36,6 @@ It is not trying to replace production orchestrators. It is built for the local 
 |---|---|
 | [`flowlayer`](https://github.com/FlowLayer/flowlayer) | Public protocol, configuration, documentation, releases, and issue hub |
 | [`tui`](https://github.com/FlowLayer/tui) | Official terminal client for observing and controlling FlowLayer sessions |
-| [`site`](https://github.com/FlowLayer/site) | Public website and documentation site |
 | [`distribution`](https://github.com/FlowLayer/distribution) | Distribution manifests and installer channel material |
 
 ## Main features
